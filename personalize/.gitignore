@@ -1,0 +1,6 @@
+*.zip
+*.csv
+*.json
+
+ml-100k
+.ipynb_checkpoints*
